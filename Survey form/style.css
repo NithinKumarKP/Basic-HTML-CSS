@@ -1,0 +1,129 @@
+*{
+    background-color: black;
+    text-align: center;
+}
+
+h1{
+    color: whitesmoke;
+    text-align: center;
+    font-family: 'Barriecito', cursive;
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Quattrocento Sans', sans-serif;
+    font-size: 50px;
+}
+.Name
+{
+    display: flex;
+}
+
+#head1
+{
+    color: whitesmoke;
+    font-size: x-large;
+    line-height: 50px;
+}
+p
+{
+    color: whitesmoke;
+    line-height: 0%;
+    font-size: small;
+}
+.box1
+{ 
+    background-color: white;
+    size: 100px;
+    border-radius: 5px;
+    width: 300px;
+    height: 30px;
+}
+.box2
+{
+    background-color: white;
+    size: 100px;
+    border-radius: 5px;
+    width: 620px;
+    height: 30px; 
+}
+
+#head2
+{
+    color: whitesmoke;
+    font-size: x-large;
+    line-height: 50px;
+    display:inline-flex;
+}
+
+.box3
+{
+    background-color: white;
+    size: 100px;
+    border-radius: 5px;
+    width: 230px;
+    height: 30px;
+}
+
+.box4
+{
+    background-color: white;
+    size: 100px;
+    border-radius: 5px;
+    width: 240px;
+    height: 40px;
+}
+
+#head3
+{
+    color: whitesmoke;
+    font-size: x-large;
+    line-height: 50px;
+}
+
+#option1
+{
+    background-color:black;
+    color: red;
+    
+}
+
+#contact
+{
+    color: whitesmoke;
+    text-align: center;
+    font-family: 'Barriecito', cursive;
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Quattrocento Sans', sans-serif;
+    font-size: 30px;
+}
+
+.box5
+{
+    color: whitesmoke;
+}
+
+#sub1
+{
+    color: whitesmoke;
+    font-size: x-large;
+}
+
+.button
+{
+    width: 150px;
+    border-radius: 5px;
+    color: whitesmoke;
+    font-size: x-large;
+}
+
+hr
+{
+    width: 800px;
+}
+
+body
+{
+border: 2px solid whitesmoke;
+margin: 15px 230px;
+
+}

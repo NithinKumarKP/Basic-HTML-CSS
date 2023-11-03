@@ -1,0 +1,30 @@
+body
+{
+background-color: black;
+color: whitesmoke;
+}
+
+.head1
+{
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+
+#img1
+{
+    width: 1280px;
+    padding-left: 6%;
+}
+
+.head3
+{
+    padding-top: 30px;
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 300px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large ;
+    text-justify: distribute;
+    padding-bottom: 30px;
+}
